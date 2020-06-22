@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['sudoku.py'],
-             pathex=['D:\\Users\\Joseph David Ruff\\Desktop\\Sudoko'],
+             pathex=['d:\\Users\\Joseph David Ruff\\Desktop\\Sudoko'],
              binaries=[],
              datas=[],
              hiddenimports=[],

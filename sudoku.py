@@ -175,6 +175,7 @@ def displayBoard(board, x, y):
         if (y >= 0):
             time.sleep(interval)
     pygame.display.update()
+    pygame.event.pump()
 
 
 def solveBoard(board):
